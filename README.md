@@ -30,4 +30,9 @@ generate_qr(
 ```
 ## Parameters
 - ```data```: Text/URL to encode.
-- ```output_dir```: Output directory (default: 'QR Code Generator/Generated QRs')
+- ```output_dir```: Output directory (default: 'QR Code Generator/Generated QRs').
+- ```filename```: Custom filename (default: timestamp-based).
+- ```fill_color```: Background color (default: 'white').
+- ```box_size```:  Size of each box (default: 10).
+- ```border```: Border width (default: 4).
+
