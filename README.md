@@ -29,3 +29,5 @@ generate_qr(
 )
 ```
 ## Parameters
+- ```data```: Text/URL to encode.
+- ```output_dir```: Output directory (default: 'QR Code Generator/Generated QRs')
