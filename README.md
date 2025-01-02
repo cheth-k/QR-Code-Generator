@@ -1,6 +1,7 @@
 # QR Code Generator
 - Used Language = Python
 ## Project Breakdwon
+- Here is the Project Breakdown of QR Code Generator.
 ```
 QR Code Generator/
 ├── QR Code.py
