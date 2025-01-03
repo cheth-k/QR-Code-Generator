@@ -42,7 +42,7 @@ pip install flask qrcode pillow
 
 ```
 QR Code Generator/
-├── app.py                 # Flask application
+├── app.py                # Flask application
 ├── static/
 │   ├── css/
 │   │   └── style.css     # Stylesheet
