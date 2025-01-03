@@ -1,4 +1,4 @@
-# QR Code Generator
+# QR Code Generator with user-friendly interface
 - A Python utility for generating customizable QR codes with options for colors, size, and file naming.
 ## Features
 - Generate QR codes from text or URLs.
